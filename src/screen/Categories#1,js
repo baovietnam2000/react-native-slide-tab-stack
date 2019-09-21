@@ -1,0 +1,79 @@
+import React, {Component} from 'react';
+import {StyleSheet, Text, View, Button, Alert} from 'react-native';
+import Icon from 'react-native-vector-icons/Ionicons';
+export default class Categories extends Component{
+  navOptions
+  static navigationOptions = ({navigation}) =>{
+    navOptions=navigation;
+    const { params ={}} = navigation.state;
+    return {
+      headerLeft: (
+        
+          <Icon 
+          name="ios-menu" 
+          style={{fontSize:40,paddingLeft:16,color:'black'}}
+          onPress = {() => params._onHeaderEventControl()}
+          
+          />
+        
+        )
+    }
+  }
+  onHeaderEventControl(){
+    const { params = {} } = navOptions.state;
+    params._openNav()
+  }
+  componentDidMount() {
+    this.props.navigation.setParams({
+      _onHeaderEventControl: this.onHeaderEventControl,
+      _openNav: () => this.openDrawer()
+      
+    })
+  }
+  
+  openDrawer(){
+    //alert('Click me')
+    
+    //this.props.navigation.navigate('DrawerOpen')
+
+    this.props.navigation.openDrawer();
+    //this.props.navigation.closeDrawer();
+    
+  }
+  
+  render() {
+    return (
+      
+      <View style={styles.container}>
+        <Text style={styles.welcome}>Categories</Text>
+        <Button
+          title = "goto Screen A"
+          onPress ={() => {
+            this.props.navigation.navigate('ScreenA');
+          }}
+        /> 
+        
+      </View>
+    );
+  }
+}
+
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    justifyContent: 'center',
+    alignItems: 'center',
+    backgroundColor: '#F5FCFF',
+  },
+  welcome: {
+    fontSize: 20,
+    textAlign: 'center',
+    margin: 10,
+  },
+  instructions: {
+    textAlign: 'center',
+    color: '#333333',
+    marginBottom: 5,
+  },
+});
