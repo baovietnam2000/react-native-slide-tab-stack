@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/gafamily/Desktop/react-native/AppStore/node_modules/react-native-reanimated/ios/Transitioning/RCTConvert+REATransition.m \
+  /Users/gafamily/Desktop/react-native/AppStore/node_modules/react-native-reanimated/ios/Transitioning/RCTConvert+REATransition.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/gafamily/Desktop/react-native/AppStore/node_modules/react-native-reanimated/ios/Transitioning/REATransition.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /Users/gafamily/Desktop/react-native/AppStore/ios/build/AppStore/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/gafamily/Desktop/react-native/AppStore/node_modules/react-native-reanimated/ios/Transitioning/REATransitionAnimation.h \
+  /Users/gafamily/Desktop/react-native/AppStore/node_modules/react-native-reanimated/ios/Transitioning/REATransitionValues.h

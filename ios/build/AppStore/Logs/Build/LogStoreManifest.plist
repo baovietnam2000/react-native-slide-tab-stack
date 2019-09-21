@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>2A527011-44A0-401B-876D-1F98BAC2022E</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2A527011-44A0-401B-876D-1F98BAC2022E.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project AppStore with scheme AppStore and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590675240.32743001</real>
+			<key>timeStoppedRecording</key>
+			<real>590675243.19643295</real>
+			<key>title</key>
+			<string>Building project AppStore with scheme AppStore and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>2A527011-44A0-401B-876D-1F98BAC2022E</string>
+		</dict>
+		<key>B7188AFB-1547-4472-9C68-74CEEC4E539A</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B7188AFB-1547-4472-9C68-74CEEC4E539A.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>AppStore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>AppStore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project AppStore with scheme AppStore and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590674993.85877299</real>
+			<key>timeStoppedRecording</key>
+			<real>590674996.52690005</real>
+			<key>title</key>
+			<string>Building project AppStore with scheme AppStore and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>B7188AFB-1547-4472-9C68-74CEEC4E539A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
