@@ -1,2 +1,2 @@
-project for combine tab, stack, drawer into react native apps
+Combined stack, drawer, tab navigator into react native apps
 
