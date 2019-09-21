@@ -1,4 +1,4 @@
-react-native init newproject --version react-native@0.59.3
+react-native init AppStore --version react-native@0.59.3
 https://facebook.github.io/react-native/blog/2019/03/12/releasing-react-native-059
 npm install --save react-navigation
 npm install --save react-native-gesture-handler
