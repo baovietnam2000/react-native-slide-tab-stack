@@ -1,2 +1,2 @@
-# react-native-slide-tab-stack
-react native app mixed drawer, stack, tab navigator
+project for combine tab, stack, drawer into react native apps
+
